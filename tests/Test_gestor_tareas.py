@@ -14,3 +14,12 @@ class TestGestorTareas(unittest.TestCase):
     def test_agregar_tarea_sin_titulo(self):
         with self.assertRaises(ValueError):
             self.gestor.agregar_tarea("", "Descripción")
+
+    def obtener_tareas(self):
+        return self.tareas
+
+    def marcar_completada(self, indice):
+        if 0 <= indice < len(self.tareas):
+            self.tareas[indice].completada = True
+        else:
+            raise IndexError("Índice fuera de rango")

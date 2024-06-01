@@ -1,0 +1,36 @@
+[33mcommit eda085f2eb2c66b69cdc43081b38bebe921f78b2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m)[m
+Author: AndreeZL <74043318@continental.edu.pe>
+Date:   Fri May 31 19:39:48 2024 -0500
+
+    Listo lanzamiento 1.0.0
+
+[33mcommit da57a83bf38739dfe022b15f3fc12ef8232681e4[m[33m ([m[1;32mrelease/1.0.0[m[33m)[m
+Merge: 6c1a107 c3b9819
+Author: AndreeZL <74043318@continental.edu.pe>
+Date:   Fri May 31 19:04:47 2024 -0500
+
+    Merge branch 'feature/agregar_tarea' into develop
+
+[33mcommit c3b981983ef431043b02bb37a222effcf3e494fc[m
+Author: AndreeZL <74043318@continental.edu.pe>
+Date:   Fri May 31 19:04:33 2024 -0500
+
+    Listo
+
+[33mcommit 106753650b566d846a166b0c4f76d0db86441ae3[m
+Author: AndreeZL <74043318@continental.edu.pe>
+Date:   Fri May 31 18:55:45 2024 -0500
+
+    Listo lanzamiento 1.0.0
+
+[33mcommit 6c1a10740554d737b2c25ce1cd6f1e32a762f8ed[m
+Author: AndreeZL <74043318@continental.edu.pe>
+Date:   Fri May 31 18:40:31 2024 -0500
+
+    Actualizando  .idea
+
+[33mcommit b8c236ec0bab04fe83f59cddcb2439628fe20864[m
+Author: AndreeZL <74043318@continental.edu.pe>
+Date:   Fri May 31 18:33:17 2024 -0500
+
+    Configuración inicial del proyecto gestor de tareas
